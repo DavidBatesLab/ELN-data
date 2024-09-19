@@ -1,0 +1,3 @@
+Experiment A: qPCR analysis
+
+Run 9 qPCR reactions (3 samples x 3 replicates). You will use an Applied Biosystems 7900HT qPCR machine. Determine required volumes of components in your PCR reactions using the "PCR Calculator" Widget on LabArchives. Each reaction should have a 25 µl volume and contain the following components: 1 µl DNA, 0.05 U/µl DNA Polymerase (stock 5 U/µl), 1X PCR buffer (stock 10X), 0.1 µM each primer (stock 10 µM), 0.2 mM dNTPs (stock 10 mM), and 2% DMSO (stock 100%). *Warning:DMSO (SigmaAldrich #D5879)is hazardous, attach Safety Data Sheet (SDS). Use the data file listed on your experiment card to graph your results.

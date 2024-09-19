@@ -1,0 +1,3 @@
+Experiment B: growth rate analysis
+
+Measure growth of three bacterial strains, with three independent cultures (replicates) for each strain. You will be monitoring growth by optical density (OD) at 600 nm using a Beckman DU-64 spectrophotometer. At the end of your experiment, prepare fixed cell samples for microscopy by diluting cells in PBS (phosphate-buffered-saline) and sodium azide (highly toxic, SigmaAldrich #08591). You will need to calculate how to make a 500 ml solution of PBS using the "Lab Recipes Calculator" Widget on LabArchives. Use the data file listed on your experiment card to graph your results.
